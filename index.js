@@ -2,7 +2,7 @@ var katzDeliLine = [];
 
 function takeANumber(currentLine, nextName) {
   currentLine.push(nextName)
-
+    let addToCurrentline += currentLine[i]; 
     return `Welcome, ${nextName}. You are number ${currentLine.length} in line.`
 
   
