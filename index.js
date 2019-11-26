@@ -1,9 +1,12 @@
 var katzDeliLine = [];
 
+let sum = 0 
+
 function takeANumber(currentLine, nextName) {
   currentLine.push(nextName)
-  for(let)
-    return `Welcome, ${nextName}. You are number ${currentLine.[i]} in line.`
+  sum++
+  
+    return `Welcome, ${nextName}. You are number ${currentLine.length} in line.`
 
   
 }
