@@ -6,7 +6,7 @@ function takeANumber(currentLine, nextName) {
   currentLine.push(nextName)
   sum++
   
-    return `Welcome, ${nextName}. You are number ${currentLine.length} in line.`
+    return `Welcome, ${nextName}. You are number ${sum} in line.`
 
   
 }
